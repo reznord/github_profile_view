@@ -1,0 +1,89 @@
+.user-input {
+  display: flex;
+  padding: 45px 0px;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.input-field {
+  height: 30px;
+  width: 250px;
+  font-size: 16px;
+  text-indent: 10px;
+  border-radius: 3px;
+  border: 1px solid #F2F2F2;
+}
+
+.user-data {
+  height: 100%;
+  display: flex;
+  margin-top: 45px;
+  padding: 0px 100px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.user-image {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.image {
+  width: 150px;
+  height: 150px;
+  border-radius: 5px;
+  border: 1px solid #FAFAFA;
+}
+
+.user-details {
+  width: 500px;
+  display: flex;
+  padding-left: 50px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.data {
+  min-height: 30px;
+  padding-bottom: 10px;
+}
+
+.followers {
+  border: none;
+  cursor: pointer;
+  background: none;
+  margin-left: 15px;
+  text-decoration: underline;
+}
+
+.followers-count {
+  padding-bottom: 10px;
+}
+
+.follower-text {
+  padding-left: 10px;
+}
+
+.followers-data {
+  display: flex;
+  padding-top: 10px;
+  padding-left: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.follower {
+  padding-bottom: 5px;
+}
+
+.input-desc {
+  padding-right: 20px;
+}
