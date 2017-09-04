@@ -8,3 +8,10 @@ Render the details of the github user
 - do not make an API request if results are already in store
 
 Uses the following github API URL `https://api.github.com/users/${username}` to GET the response.
+
+## Steps to run this project:
+
+- clone this repo
+- yarn install (or) npm install
+- yarn start
+- enter a name in the input field
